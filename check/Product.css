@@ -1,0 +1,43 @@
+#head{
+    color:rgb(255, 6, 201);
+    text-align: center;
+}
+
+ .form{
+     background-image: url(ice2.jpg);
+     background-color: aqua;
+     width: 400px;
+     margin: 50px auto;
+     padding: 50px;
+     border-radius: 150px;
+     border-style:solid 
+     
+
+     
+
+}
+
+
+
+#data{
+  width: 100%;
+  
+  margin: 5px auto;
+  box-sizing: border-box;
+  text-align: center;
+  
+  
+
+}
+
+
+
+/* body{
+    
+    background-image: url(ice.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
+
+
+ 
